@@ -60,14 +60,12 @@ $ gradle clean build
 +
 [source, shell]
 ----
-$ java -jar target/optaplanner-spring-boot-school-timetabling-quickstart-1.0-SNAPSHOT.jar
 ----
 +
 or the Gradle output:
 +
 [source, shell]
 ----
-$ java -jar build/libs/optaplanner-spring-boot-school-timetabling-quickstart-1.0-SNAPSHOT.jar
 ----
 +
 [NOTE]
